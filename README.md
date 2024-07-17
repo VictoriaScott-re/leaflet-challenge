@@ -4,9 +4,9 @@
 This project visualizes earthquake data using the Leaflet.js library. The visualization includes markers that reflect the magnitude and depth of earthquakes, popups with additional information, and a legend to provide context for the depth colors.
 
 ## Files
-- [index.html](.Leaflet-Part-1/index.html): The main HTML file that sets up the webpage and includes references to necessary CSS and JavaScript files.
-- [style.css](.Leaflet-Part-1/static/css/style.css): The CSS file that contains styling for the map and legend.
-- [logic.js](.Leaflet-Part-1/static/js/logic.js): The JavaScript file that fetches earthquake data, processes it, and creates the map visualization.
+- [index.html](./Leaflet-Part-1/index.html): The main HTML file that sets up the webpage and includes references to necessary CSS and JavaScript files.
+- [style.css](./Leaflet-Part-1/static/css/style.css): The CSS file that contains styling for the map and legend.
+- [logic.js](./Leaflet-Part-1/static/js/logic.js): The JavaScript file that fetches earthquake data, processes it, and creates the map visualization.
 
 ## Features
 - **Map Initialization**: Initializes a Leaflet map centered on San Francisco, CA.
